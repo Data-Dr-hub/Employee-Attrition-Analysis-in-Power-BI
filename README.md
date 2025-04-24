@@ -82,4 +82,4 @@ By creating an interactive dashboard, I showcased my storytelling skills, turnin
 ## Power BI File  
 
 The complete dashboard file is available for download:  
-[HR Attrition Dashboard - Power BI File](HR20%dashboard.pbix)
+[HR Attrition Dashboard - Power BI File](HR%20dashboard.pbix)
