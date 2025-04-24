@@ -30,17 +30,32 @@ The dashboard is divided into individual visuals that answer specific questions,
 
 ### Key Influencers of Attrition
 ![Key Influencers](influencer.PNG)
-- **Insight:** Major drivers of attrition include:
-  - **Overtime** (2.93x likelihood).
-  - **1 year or less at the company** (2.7x likelihood).
-  - **Single marital status** (2.18x likelihood).
-  - Poor **work-life balance** and **low job satisfaction** further contribute.
-- **Actionable Recommendation:** Offer **work-life balance initiatives**, monitor overtime hours, and develop engagement plans targeting single employees.
+
+The analysis revealed several significant factors that influence employee attrition:
+
+- **Overtime:** Employees who work overtime are **nearly 3 times more likely to leave** compared to those who do not work overtime. This indicates that excessive workloads are a major stressor leading to higher attrition.  
+- **Short Tenure:** Employees who have been with the company for **1 year or less** are **2.7 times more likely to leave** than longer-tenured employees. This highlights a critical need for stronger onboarding and engagement within the first year.  
+- **Single Marital Status:** Single employees are **2.18 times more likely to leave** compared to married employees. This suggests that single employees may lack the work-life balance and social support that married employees might benefit from.  
+- **Work-Life Balance and Job Satisfaction:** Poor work-life balance and job satisfaction of 1 or below are significant contributors to attrition, especially among the employees who have already left.  
+
+**What This Means:** These insights suggest that work-related stress, insufficient early-stage support, and dissatisfaction with work-life balance are key drivers of attrition.  
+
+**Recommendations:**
+- Introduce initiatives to improve work-life balance, such as flexible work schedules and wellness programs.  
+- Closely monitor overtime hours and adjust workloads to reduce stress.  
+- Develop engagement strategies targeting single employees, such as building mentorship opportunities and social support networks.  
+- Improve job satisfaction by recognizing employee contributions, fostering a positive work culture, and ensuring transparent communication.
 
 ### Top Segment at Risk
 ![Top Segment](segment1.PNG)
-- **Insight:** **Single employees** who work overtime have a **49.6% likelihood** of leaving.
-- **Actionable Recommendation:** Implement personalized support programs for employees in this segment, such as workload adjustments and wellness initiatives.
+From the analysis, the segment most at risk of leaving includes **single employees** who work overtime, with a **49.6% likelihood of leaving**. This group represents a critical focus area for retention efforts.  
+
+**What This Means:** Single employees who are burdened with overtime experience higher levels of stress and dissatisfaction, making them significantly more likely to leave the organization.  
+
+**Recommendations:**
+- Provide targeted support for this segment, such as reducing overtime hours and offering workplace wellness initiatives.  
+- Implement balanced workload distribution and create programs that enhance job satisfaction for single employees.  
+- Consider introducing social engagement initiatives to make the workplace more inclusive and supportive for single employees.  
 
 ---
 
